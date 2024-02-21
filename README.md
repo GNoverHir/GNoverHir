@@ -38,4 +38,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNoverHir&theme=gotham&locale=pt-br&border_radius=15) 
 
-![Status do Pedroca](https://github-readme-stats.vercel.app/api?username=GNoverHir&show=include_all_commits&custom_title=Git+Stats+do+Pedroca&theme=gotham&locale=pt-br&show_icons=true&border_radius=15)
+![Status do Pedroca](https://github-readme-stats.vercel.app/api?username=GNoverHir&include_all_commits=true&custom_title=Git+Stats+do+Pedroca&theme=gotham&locale=pt-br&show_icons=true&border_radius=15)
