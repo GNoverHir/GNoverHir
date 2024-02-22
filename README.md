@@ -7,7 +7,7 @@
 <h1>Sobre o Pedroca</h1>
 
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/5191/5191748.png" />  Experiência profissional como **PESONALIZADOR DE BRINDES: LASER E TRANSFER** 
-- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMA** na <a href="fiap.com.br">FIAP</a>
+- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMA** na <a href="https://www.fiap.com.br">FIAP</a>
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursou **LÓGICA DA PROGRAMAÇÃO** no <a href="https://www.sp.senai.br">SENAI</a>
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursou **DESING GRÁFICO** na <a href="https://www.saga.com.br">SAGA</a>
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/13/13973.png" />  Atualmente o jogador **MAIS QUENTE DE AKALI** (LoL) do servidor BR 😂
