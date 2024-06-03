@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" height="400em" src="https://www.leagueoflegends.com/static/assassin-a648ef647c30c9411666320760cf348b.png](https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817)">
+<img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817">
 
 <h1>Sobre o Pedroca</h1>
 
