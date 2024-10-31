@@ -4,17 +4,20 @@
 
 <img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817">
 
-<h1>Sobre o Pedroca</h1>
+<h1>About Pedroca</h1>
 
-- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/5191/5191748.png" />  Experiência profissional como **PESONALIZADOR DE BRINDES: LASER E TRANSFER** 
-- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMA** na <a href="https://www.fiap.com.br">FIAP</a>
-- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursou **LÓGICA DA PROGRAMAÇÃO** no <a href="https://www.sp.senai.br">SENAI</a>
-- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Cursou **DESING GRÁFICO** na <a href="https://www.saga.com.br">SAGA</a>
-- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/13/13973.png" />  Atualmente o jogador **MAIS QUENTE DE AKALI** (LoL) do servidor BR 😂
+<img height="20px" src="https://cdn-icons-png.flaticon.com/512/5191/5191748.png" /> Professional Experience as **IT Support and Customization Specialist: Laser and Transfer**
+- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Currently studying **Systems Analysis and Development** at <a href="https://www.fiap.com.br">FIAP</a>
+- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Completed **Programming Logic course** at <a href="https://www.sp.senai.br">SENAI</a>
+- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Completed **Graphic Design Course** at <a href="https://www.saga.com.br">SAGA</a>
+- <img height="20px" src="https://cdn-icons-png.flaticon.com/512/13/13973.png" />  Currently **The Hottest Akali Player** (LoL) on the BR server 😂
+
+## 🔗 More professional infos
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucca-7b7308316/)
 
 </div>
 
-<h1>O que estou aprendendo:</h1>
+<h1>Skills at:</h1>
 
 <div>
   <div>
@@ -41,7 +44,7 @@
 
 </div> <br><br>        
 
-<h1>Outros conhecimentos:</h1>
+<h1>Additional skills:</h1>
 
 <div>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
