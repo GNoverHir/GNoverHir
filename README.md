@@ -2,13 +2,12 @@
 <div>
 
 <div>
-  <img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817"> <br>
+  <img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817">
 </div>
   
 <div>
 
 <h1>About Pedroca</h1>
-<br>
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/5191/5191748.png" /> Professional Experience as **IT Support and Customization Specialist: Laser and Transfer**
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Currently studying **Systems Analysis and Development** at <a href="https://www.fiap.com.br">FIAP</a>
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Completed **Programming Logic course** at <a href="https://www.sp.senai.br">SENAI</a>
