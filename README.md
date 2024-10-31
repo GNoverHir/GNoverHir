@@ -15,7 +15,7 @@
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/2681/2681831.png" />  Completed **Graphic Design Course** at <a href="https://www.saga.com.br">SAGA</a>
 - <img height="20px" src="https://cdn-icons-png.flaticon.com/512/13/13973.png" />  Currently **The Hottest Akali Player** (LoL) on the BR server 😂
 
-# 🔗 More professional infos
+<h2>🔗 More professional infos</h2>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucca-7b7308316/)
 
 </div>
