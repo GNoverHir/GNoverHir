@@ -1,8 +1,11 @@
 ### OPA! SEJA BEM VINDO AO MEU GITHUB!👋
-
 <div>
 
-<img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817">
+<div>
+  <img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817">
+</div>
+  
+<div>
 
 <h1>About Pedroca</h1>
 
@@ -14,6 +17,9 @@
 
 ## 🔗 More professional infos
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucca-7b7308316/)
+
+</div>
+
 
 </div>
 
