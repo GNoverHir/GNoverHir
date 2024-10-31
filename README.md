@@ -19,7 +19,7 @@
 
 ## 🔗 More professional infos <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucca-7b7308316/)
-[![gmail](https://img.shields.io/badge/Aaaa-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroluccaprofissional@gmail.com)
+[![gmail](https://img.shields.io/badge/pedroluccaprofissional@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroluccaprofissional@gmail.com)
 
 </div>
 </div> <br>
