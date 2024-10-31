@@ -2,7 +2,7 @@
 <div>
 
 <div>
-  <img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817">
+  <img align="right" height="400em" src="https://static.wikia.nocookie.net/liberproeliis/images/4/4d/Akali.png/revision/latest?cb=20200911161817"> <br>
 </div>
   
 <div>
