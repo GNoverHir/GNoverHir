@@ -1,4 +1,4 @@
-### OPA! SEJA BEM VINDO AO MEU GITHUB!👋
+### HEY! WELCOME TO PEDROCA'S GITHUB! 🖥️
 <div>
 
 <div>
